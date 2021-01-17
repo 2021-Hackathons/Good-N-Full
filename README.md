@@ -16,7 +16,7 @@ Mollie Goforth
 Tracey Joelle Cox
 
 ## Product Managers 
-Jane Robinson
+Jane Robinson\
 Christopher Jeffries
 
 ### Figma Prototype 
