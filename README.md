@@ -9,15 +9,15 @@
 
 ### Team 
 ## Developers 
-[Aja Washington](https://www.linkedin.com/in/ajawashington/)\
-[Mollie Goforth](https://www.linkedin.com/in/molliegoforth818/)\
+[Aja Washington](https://www.linkedin.com/in/ajawashington/)
+[Mollie Goforth](https://www.linkedin.com/in/molliegoforth818/)
 
 ## Designer
-[Tracey Joelle Cox](https://www.linkedin.com/in/traceyjcox/)\
+[Tracey Joelle Cox](https://www.linkedin.com/in/traceyjcox/)
 
 ## Product Managers 
-[Jane Robinson](https://www.linkedin.com/in/jane-robinson-mazur/)\
-[Christopher Jeffries](https://www.linkedin.com/in/christopherljeffries/)\
+[Jane Robinson](https://www.linkedin.com/in/jane-robinson-mazur/)
+[Christopher Jeffries](https://www.linkedin.com/in/christopherljeffries/)
 
 
 
